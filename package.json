@@ -26,8 +26,5 @@
     "prettier": "^3.3.3",
     "regenerator-runtime": "^0.13.5",
     "simple-git": "^3.27.0"
-  },
-  "dependencies": {
-    "sandbox": "file:"
   }
 }
